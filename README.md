@@ -25,8 +25,9 @@ status:
   match_probability: calculation_in_progress
   on_success: 
     action: return(found_one_just_like_you)
+```
 
-🛰 Terminal_Output
+##🛰 Terminal_Output
 
 [INFO] "A boy lost in the binary stars, filtering through the noise of the cosmos to find the one signal that mirrors his own."
 🔭 Visualizing_The_Search
